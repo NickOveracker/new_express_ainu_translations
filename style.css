@@ -1,0 +1,14 @@
+a.internal-vocab-reference {
+  text-decortation: underline;
+  font-weight: bold;
+  color: red;
+}
+
+a.external-vocab-reference {
+  font-weight: bold;
+}
+
+span.speaker {
+  color: darkred;
+  font-weight: bold;
+}
