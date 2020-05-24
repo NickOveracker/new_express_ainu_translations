@@ -20,3 +20,29 @@ span.dialogue {
   display: inline-block;
   vertical-align: top;
 }
+
+table {
+  border-style: solid;
+  border-color: #aaaaaa;
+  border-collapse: collapse;
+  border-width: 1px;
+  border-spacing: 0px;
+  margin-bottom: 1.5em;
+  margin-top: 0.0em;
+}
+
+tr {
+  border-style: inset;
+  border-color: #aaaaaa;
+  border-width: 1px;
+}
+
+th {
+}
+
+td {
+  border-style: inset;
+  border-color: #aaaaaa;
+  border-width: 1px;
+  padding: 2px;
+}
