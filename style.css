@@ -9,6 +9,15 @@ a.external-vocab-reference {
 }
 
 span.speaker {
-  color: #000;
+  display: inline-block;
+  vertical-align: top;
   font-weight: bold;
+  padding-left: 5%;
+  color: #000;
+  width: 10%;
+}
+
+span.dialogue {
+  display: inline-block;
+  vertical-align: top;
 }
