@@ -1,7 +1,7 @@
 a.internal-vocab-reference {
   text-decortation: underline;
   font-weight: bold;
-  color: red;
+  color: #000;
 }
 
 a.external-vocab-reference {
@@ -13,7 +13,7 @@ span.speaker {
   vertical-align: top;
   font-weight: bold;
   padding-left: 5%;
-  color: #000;
+  color: darkred;
   width: 10%;
 }
 
