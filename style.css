@@ -7,6 +7,9 @@ body {
     background-attachment: fixed;
 }
 
+#wrapper h1 {
+    margin-left: 5%;
+}
 
 header {
     padding-bottom: 1px;
@@ -107,17 +110,20 @@ table {
   border-spacing: 0px;
   margin-bottom: 1.5em;
   margin-top: 0.0em;
-  width: 100%;
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 90%;
 }
 
 tr {
   border-style: inset;
   border-color: #aaaaaa;
   border-width: 1px;
+  width: 90%;
 }
 
 th {
-    width: 50%;
+    width: 45%;
 }
 
 td {
@@ -125,5 +131,5 @@ td {
   border-color: #aaaaaa;
   border-width: 1px;
   padding: 2px;
-  width: 50%;
+  width: 45%;
 }
