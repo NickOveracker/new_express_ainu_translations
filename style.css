@@ -1,3 +1,20 @@
+body {
+    background-color: #35363b;
+    background-image: url(./bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+div #wrapper {
+  padding: 10px;
+  width: 50%;
+  margin: auto;
+  background-color: #fff;
+  opacity: 90%;
+}
+
 a.internal-vocab-reference {
   text-decoration: underline;
   font-weight: bold;
