@@ -30,11 +30,19 @@ header a {
 
 div #wrapper {
   padding: 10px;
-  width: 50%;
+  width: 75%;
   margin: auto;
   background-color: #fff;
   opacity: 95%;
+  margin-top: 5%;
 }
+
+div #main-text {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
 a.external-vocab-reference {
   font-weight: bold;
 }
