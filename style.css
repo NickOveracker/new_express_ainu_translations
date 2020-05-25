@@ -7,6 +7,21 @@ body {
     background-attachment: fixed;
 }
 
+
+header {
+    padding-bottom: 1px;
+}
+
+header span {
+    opacity: 70%;
+    right: 0;
+    bottom: 0;
+    padding: 0 5px 0;
+    background-color: #1f1f1f;
+    color: white;
+    text-align: center;
+}
+
 div #wrapper {
   padding: 10px;
   width: 50%;
