@@ -52,7 +52,8 @@ a.external-vocab-reference {
 .tooltip {
   position: relative;
   display: inline;
-  border-bottom: 1px dotted black;
+  border-bottom: 2px dotted black;
+  font-weight: bold;
 }
 
 .tooltip .tooltiptext {
