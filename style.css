@@ -7,6 +7,10 @@ body {
     background-attachment: fixed;
 }
 
+a {
+  color: darkred;
+}
+
 #wrapper h1 {
     margin-left: 5%;
 }
