@@ -88,6 +88,10 @@ a.external-vocab-reference {
   opacity: 1;
 }
 
+.conjugation-table p {
+  margin: 0;
+}
+
 span.speaker {
   display: inline-block;
   vertical-align: top;
